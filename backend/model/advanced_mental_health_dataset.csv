@@ -1,0 +1,29 @@
+texts,labels,responses,subcategories,severity
+I feel a little nervous about my presentation,Anxiety,"Pre-presentation nerves are normal! Practice your opening lines, take three deep breaths before starting, and remember - the audience wants you to succeed.",social,mild
+I'm worried about my exam results,Anxiety,Waiting for results is stressful. What's done is done. Focus on what you can control right now. Distract yourself with a hobby or exercise.,academic,mild
+My heart is racing and I can't calm down,Anxiety,"Let's do the 4-7-8 breathing technique. Breathe in for 4 seconds, hold for 7, exhale for 8. Repeat 4 times. Feel that? Your body is calming down.",panic,moderate
+I keep having panic attacks,Anxiety,"Panic attacks are terrifying but they always pass. Ground yourself: Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste. You're safe.",panic,moderate
+I can't stop worrying about everything,Anxiety,Generalized anxiety is exhausting. Let's do a 'worry dump' - write down everything you're worried about. Then identify what you can control vs what you can't.,generalized,moderate
+I can't leave my house because of anxiety,Anxiety,"That sounds incredibly difficult. Start small - just open your front door. Tomorrow, step outside for 1 minute. Gradual exposure works. Consider seeing a therapist who specializes in anxiety.",agoraphobia,severe
+I've been feeling down lately,Depression,Everyone feels down sometimes. Have you been sleeping and eating well? Sometimes small self-care actions make a big difference.,mild,mild
+I've lost interest in my hobbies,Depression,"Loss of interest is common. Try the '5-minute rule' - do something you used to enjoy for just 5 minutes. No pressure to enjoy it, just try.",anhedonia,mild
+I feel empty and hopeless,Depression,"I'm sorry you're feeling this way. You're not alone. Can you do one small thing for yourself today? Drink water, eat something, step outside for 2 minutes?",moderate,moderate
+Nothing makes me happy anymore,Depression,"Depression steals joy. What used to bring you happiness? Even if it doesn't now, can you try it for 5 minutes? Sometimes the feeling follows the action.",anhedonia,moderate
+I don't want to get out of bed,Depression,Getting out of bed is a win. Can we start with just sitting up? Or moving to the couch? One small step is still progress.,lethargy,moderate
+I don't see any point in living,Depression,I'm very concerned about you. Your life matters. Please reach out to the Suicide & Crisis Lifeline at 988. They have trained counselors who can help right now.,suicidal,severe
+I feel completely worthless,Depression,Depression lies to us. You have worth. Can you name one person who would be affected if you weren't here? Please call 988 or a trusted person right now.,severe,severe
+I'm so stressed with work deadlines,Stress,Work stress is real. Let's prioritize: What's urgent? What can wait? What can you delegate? Take a 5-minute break right now.,work,moderate
+I'm overwhelmed with everything,Stress,"When everything feels too much, let's break it down. What's ONE thing you can do in the next 5 minutes? Focus only on that.",overwhelm,moderate
+I feel burned out from school,Stress,"Academic burnout is real. When did you last take a real break? Not studying, not scrolling - actual rest. Your brain needs recovery time.",academic,moderate
+I'm stressed about my relationship,Stress,Relationship stress hurts. Can you communicate openly with your partner? Sometimes saying 'I'm struggling' is a good first step.,relationship,moderate
+I feel so energetic and unstoppable,Bipolar,"High energy can feel great, but be careful. Are you sleeping? Not sleeping can trigger mania. Try to maintain a consistent sleep schedule.",mania,moderate
+My moods keep swinging wildly,Bipolar,Mood swings are exhausting. Have you been tracking your moods? A mood diary can help identify patterns. This is important to share with your doctor.,cycling,moderate
+I'm in a deep depression after feeling so high,Bipolar,The crash after mania is brutal. Be gentle with yourself. This is part of the bipolar cycle. Reach out to your psychiatrist if you haven't already.,depressive,severe
+I'm doing okay today,Normal,I'm glad to hear that! What's one positive thing that happened today? Let's appreciate those moments.,general,mild
+Just checking in,Normal,Thanks for checking in! I'm here. How are you feeling right now? What's on your mind?,general,mild
+I had a good day,Normal,That's wonderful! What made it good? Let's celebrate those moments and remember them for harder days.,positive,mild
+I'm feeling much better today,Normal,I'm so glad! What helped you feel better? Keep doing that. You're making progress.,improving,mild
+I keep having flashbacks of something bad,PTSD,Flashbacks are terrifying. Ground yourself: What year is it? Where are you? Look around and name what you see. You're safe now. EMDR therapy can help with trauma.,flashbacks,severe
+I can't stop thinking about what happened,PTSD,Intrusive thoughts are exhausting. Try writing them down to get them out of your head. Trauma-focused therapy can help process these memories.,intrusive,moderate
+I lost someone I love and I can't cope,Grief,Grief is heavy. There's no timeline. Let yourself feel whatever comes up. Can you share a favorite memory of them? Sometimes talking helps.,loss,severe
+I'm still grieving after months,Grief,Grief doesn't have a timeline. Some days will be harder. Grief counseling can help. You don't have to go through this alone.,prolonged,moderate
